@@ -1,2 +1,4 @@
 
 key.py
+*.pyc
+.ipynb_checkpoints/debug-checkpoint.ipynb
